@@ -1,0 +1,4 @@
+apikey: "123456789ABCDEFG"
+proxyhost: "proxy.proxy.com"
+proxyport: "8888"
+certca: "file.crt"
